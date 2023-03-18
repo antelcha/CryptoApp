@@ -8,8 +8,14 @@
 import SwiftUI
 
 struct XMarkButton: View {
+    
+    @Environment(\.dismiss) var dissmis
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Button(action: {
+            dissmis.callAsFunction()
+        },label: {
+            Image(systemName: "xmark")
+        })
     }
 }
 
