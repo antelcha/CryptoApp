@@ -28,5 +28,5 @@ CryptoApp's development was made possible by the support from both of these sour
 
 
 
-[Light Mode Video] (https://drive.google.com/file/d/1WqqvNEqadK_cmGhZuyb90sqtfK-6GCXy/view?usp=share_link) <br>
-[Dark Mode Video] (https://drive.google.com/file/d/1cz-mUwUaX78Ng1ZoDwDmTnIkLDr9NvlM/view?usp=sharing)
+[Light Mode Video](https://drive.google.com/file/d/1WqqvNEqadK_cmGhZuyb90sqtfK-6GCXy/view?usp=share_link) <br>
+[Dark Mode Video](https://drive.google.com/file/d/1cz-mUwUaX78Ng1ZoDwDmTnIkLDr9NvlM/view?usp=sharing)
